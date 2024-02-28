@@ -17,7 +17,9 @@ public class Student4 {
 
 	public void showStudentInfo()
 	{
-		int total = korean.getScorePoint() + math.getScorePoint();
+		System.out.println(studentName + "님의 " + korean.getSubjectName() + " 과목의 점수는 "
+				+ korean.getScorePoint() + "점 이며 " + math.getSubjectName() + " 과목의 점수는 "
+		+ math.getScorePoint() + "점 입니다.");
 
 	}
 
