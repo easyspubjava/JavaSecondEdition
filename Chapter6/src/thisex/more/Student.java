@@ -51,7 +51,7 @@ class Student {
     }
 
     public void showStudentInfo(){
-        System.out.println(name +"님의 학번은 " + id + "이고, " + grade + "학년 입니다.");
+        System.out.println(name +"님의 학번은 " + id + "이고, " + grade + "학년입니다.");
     }
 }
 
