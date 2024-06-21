@@ -1,6 +1,6 @@
 package ifexample;
 
-public class SwitchCase6 {
+public class SwitchCase4 {
     public static void main(String[] args) {
 
         String medal = "Gold";
