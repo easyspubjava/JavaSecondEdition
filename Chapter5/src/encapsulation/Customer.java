@@ -1,4 +1,4 @@
-package capsulation;
+package encapsulation;
 
 public class Customer {
     private String name;

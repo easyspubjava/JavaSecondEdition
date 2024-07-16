@@ -33,7 +33,7 @@ class Student{
     }
 
     public void showStudentInfo(){
-        System.out.println(name +"님의 학번은 " + id + "이고, " + grade + "학년 입니다.");
+        System.out.println(name +"님의 학번은 " + id + "이고, " + grade + "학년입니다.");
     }
 }
 
@@ -42,6 +42,6 @@ public class ReturnItSelf {
     public static void main(String[] args) {
 
         Student studentLee = new Student();
-        studentLee.setId(12345).setName("이영주").setGrade(3).showStudentInfo();
+        studentLee.setId(12345).setName("김원상").setGrade(3).showStudentInfo();
     }
 }

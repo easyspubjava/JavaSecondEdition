@@ -1,15 +1,15 @@
-package capsulation;
+package encapsulation;
 
 public class PhoneStore {
     private Phone phone;
-    private double price;
 
     public PhoneStore(Phone phone) {
         this.phone = phone;
     }
 
     public Phone sellPhone(String model, double budget) {
-        if(budget >= phone.getPrice()) {
+        String phoneModel = phone.getModel();
+        if( model.equals(phoneModel) && budget >= phone.getPrice() ) {
             registerPayment();
             discountPromotion();
             saveData();
@@ -27,6 +27,6 @@ public class PhoneStore {
     }
 
     private void saveData(){
-        System.out.println("대리점: 데이타를 저장하고 새로운 폰으로 이동합니다");
+        System.out.println("대리점: 데이터를 저장하고 새로운 폰으로 이동합니다.");
     }
 }
