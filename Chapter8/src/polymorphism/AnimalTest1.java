@@ -50,6 +50,9 @@ public class AnimalTest1 {
         aTest.moveAnimal(new Human());
         aTest.moveAnimal(new Tiger());
         aTest.moveAnimal(new Eagle());
+
+        Animal ani = new Tiger();
+        Human h = (Human)ani;
     }
 
     public void moveAnimal(Animal animal) {
