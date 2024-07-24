@@ -1,7 +1,6 @@
 package abstractex;
 
 public class DeskTop extends Computer{
-	
 
 	@Override
 	public void display() {
@@ -12,5 +11,4 @@ public class DeskTop extends Computer{
 	public void typing() {
 		System.out.println("DeskTop Typing()");		
 	}
-
 }

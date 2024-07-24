@@ -12,6 +12,8 @@ public class MainBoard {
 		SuperLevel sLevel = new SuperLevel();
 		player.upgradeLevel(sLevel);
 		player.play(3);
+
+		String str = new String();
 		
 	}
 }
