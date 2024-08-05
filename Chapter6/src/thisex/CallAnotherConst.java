@@ -26,8 +26,8 @@ public class CallAnotherConst {
 		System.out.println(noName.name);
 		System.out.println(noName.age);
 		
-		Person p = noName.returnItSelf();
+		/*Person p = noName.returnItSelf();
 		System.out.println(p);
-		System.out.println(noName);
+		System.out.println(noName);*/
 	}
 }

@@ -31,8 +31,8 @@ public class CustomerTest {
 		int price = 10000;
 		for( Customer customer : customerList){
 			int cost = customer.calcPrice(price);
-			System.out.println(customer.getCustomerName() +"님이 " +  + cost + "원 지불하셨습니다.");
-			System.out.println(customer.getCustomerName() +"님의 현재 보너스 포인트는 " + customer.bonusPoint + "점입니다.");
+			System.out.println(customer.getCustomerName() +" 님이 " +  + cost + "원 지불하셨습니다.");
+			System.out.println(customer.getCustomerName() +" 님의 현재 보너스 포인트는 " + customer.bonusPoint + "점입니다.");
 		}
 	}
 }

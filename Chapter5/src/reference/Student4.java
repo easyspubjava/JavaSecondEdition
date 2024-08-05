@@ -19,7 +19,7 @@ public class Student4 {
 	{
 		System.out.println(studentName + "님의 " + korean.getSubjectName() + " 과목의 점수는 "
 				+ korean.getScorePoint() + "점 이며 " + math.getSubjectName() + " 과목의 점수는 "
-		+ math.getScorePoint() + "점 입니다.");
+		+ math.getScorePoint() + "점입니다.");
 
 	}
 

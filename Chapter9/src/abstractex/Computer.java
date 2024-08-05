@@ -13,4 +13,9 @@ public abstract class Computer {
 	{
 		System.out.println("전원을 끕니다.");
 	}
+
+
+
+
+	String str = new String();
 }
