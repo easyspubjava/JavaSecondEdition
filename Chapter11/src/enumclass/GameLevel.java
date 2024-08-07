@@ -26,13 +26,13 @@ public enum GameLevel {
     }
 
     public static void main(String[] args) {
-        GameLevel[] gameLevels = GameLevel.values();
+        /*GameLevel[] gameLevels = GameLevel.values();
         for(GameLevel level : gameLevels){
             System.out.println(level);
-        }
+        }*/
 
-      /*  GameLevel gameLevel = GameLevel.valueOf("BEGINNER_LEVEL");
+        GameLevel gameLevel = GameLevel.valueOf("BEGINNER_LEVEL");
         System.out.println(gameLevel.getLevel());
-        System.out.println(gameLevel.getHint());*/
+        System.out.println(gameLevel.getHint());
     }
 }

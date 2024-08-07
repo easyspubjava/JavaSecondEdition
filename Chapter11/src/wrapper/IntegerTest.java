@@ -14,5 +14,7 @@ public class IntegerTest {
 
         Integer i = jNum;
         System.out.println(i);
+
+        Object object = new Object();
     }
 }
