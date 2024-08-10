@@ -3,7 +3,7 @@ package optional;
 import java.util.ArrayList;
 import java.util.Optional;
 
-public class UserInfoTest {
+public class UserInfoTestUsingOptional {
 
     public static void main(String[] args) {
         ArrayList<UserInfo> userInfoList = new ArrayList<>();
@@ -11,11 +11,6 @@ public class UserInfoTest {
         userInfoList.add(new UserInfo(12345, "James"));
         userInfoList.add(new UserInfo(12346, "Tomas"));
         userInfoList.add(new UserInfo(12347, "Edward"));
-
-       /* UserInfo userInfo = getUserInfoById(12345, userInfoList);
-        if(userInfo != null ) {
-            System.out.println(userInfo.getName());
-        }*/
 
         usingOptional(userInfoList);
     }
@@ -62,13 +57,5 @@ public class UserInfoTest {
 
     public static UserInfo generateDefaultUserInfo(){
         return new UserInfo(00000, "Guest");
-    }
-
-    public static UserInfo getUserInfoById(int id, ArrayList<UserInfo> list){
-        for(UserInfo userInfo : list){
-            if (id == userInfo.getId())
-                return userInfo;
-        }
-        return null;
     }
 }
