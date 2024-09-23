@@ -1,4 +1,4 @@
-package chapter5.constructor;
+package chapter5.q8;
 
 public class PersonTest {
    
