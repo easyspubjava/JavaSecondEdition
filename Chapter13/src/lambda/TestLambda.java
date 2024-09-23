@@ -14,8 +14,8 @@ public class TestLambda {
 		
 		showMyString(lambdaStr);
 		
-		PrintString reStr = returnString();  
-		reStr.showString("hello ");
+		//PrintString reStr = returnString();
+		//reStr.showString("hello ");
 		
 	}
 	

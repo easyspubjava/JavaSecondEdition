@@ -9,7 +9,8 @@ public class StringEquals {
 		
 		System.out.println(str1 == str2);
 		System.out.println(str1.equals(str2));
-		
+
+
 	/*	Integer i1 = Integer.valueOf(100);
 		Integer i2 = 100;
 		
