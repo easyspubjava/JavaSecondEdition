@@ -1,4 +1,4 @@
-package chapter7.arraylist;
+package chapter7.q11;
 
 import java.util.ArrayList;
 

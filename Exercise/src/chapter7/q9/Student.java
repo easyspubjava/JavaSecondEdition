@@ -1,4 +1,4 @@
-package chapter7.arraylist;
+package chapter7.q9;
 
 public class Student {
 	int studentID;
