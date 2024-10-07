@@ -24,8 +24,8 @@ public class JoinTest extends Thread{
         joinA.start();
         joinB.start();
 
-        joinA.join();
-        joinB.join();
+       // joinA.join();
+       // joinB.join();
 
         int total = joinA.sum + joinB.sum;
         System.out.println(joinA.sum + "+" + joinB.sum + "=" + total );

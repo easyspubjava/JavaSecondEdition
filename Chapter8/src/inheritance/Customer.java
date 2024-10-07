@@ -20,7 +20,7 @@ public class Customer {
 		this.customerName = customerName;
 		customerGrade = "SILVER";
 		bonusRatio = 0.01;
-		//System.out.println("Cusomer(int, String) 생성자 호출");
+		System.out.println("Cusomer(int, String) 생성자 호출");
 	}
 	
 	public int calcPrice(int price){
