@@ -1,6 +1,6 @@
 package chapter3;
 
-public class Exercise6 {
+public class Exercise14 {
     public static void main(String[] args) {
         int n = 5;
         int bitwiseNotN = ~n;
