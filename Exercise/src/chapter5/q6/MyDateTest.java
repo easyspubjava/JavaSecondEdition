@@ -1,7 +1,4 @@
-package chapter5.q4;
-
-import java.util.Calendar;
-import java.util.Date;
+package chapter5.q6;
 
 public class MyDateTest {
 

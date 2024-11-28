@@ -1,4 +1,4 @@
-package chapter5.q7;
+package chapter5.q9;
 
 public class Person {
 	int age;

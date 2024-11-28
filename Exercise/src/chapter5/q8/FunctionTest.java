@@ -1,6 +1,4 @@
-package chapter5.q6;
-
-import java.util.ArrayList;
+package chapter5.q8;
 
 public class FunctionTest {
 
