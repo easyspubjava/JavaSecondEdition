@@ -1,4 +1,4 @@
-package chapter10.q7;
+package chapter10.q8;
 
 import java.io.IOException;
 
