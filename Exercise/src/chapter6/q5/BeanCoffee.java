@@ -8,10 +8,10 @@ public class BeanCoffee {
 	
 		this.money += money;
 		if(money == Menu.BEANAMERICANO) {
-			return "Äá ´Ù¹æ ¾Æ¸Ş¸®Ä«³ë¸¦ ±¸ÀÔÇß½À´Ï´Ù";
+			return "ì½© ë‹¤ë°© ì•„ë©”ë¦¬ì¹´ë…¸ë¥¼ êµ¬ì…í–ˆìŠµë‹ˆë‹¤";
 		}
 		else if(money == Menu.BEANLATTE) {
-			return "Äá ´Ù¹æ ¶ó¶¼¸¦ ±¸ÀÔÇß½À´Ï´Ù";
+			return "ì½© ë‹¤ë°© ë¼ë–¼ë¥¼ êµ¬ì…í–ˆìŠµë‹ˆë‹¤";
 		}
 		else {
 			return null;

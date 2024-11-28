@@ -8,10 +8,10 @@ public class StarCoffee {
 	
 		this.money += money;
 		if(money == Menu.STARAMERICANO) {
-			return "º° ´Ù¹æ ¾Æ¸Ş¸®Ä«³ë¸¦ ±¸ÀÔÇß½À´Ï´Ù";
+			return "ë³„ ë‹¤ë°© ì•„ë©”ë¦¬ì¹´ë…¸ë¥¼ êµ¬ì…í–ˆìŠµë‹ˆë‹¤";
 		}
 		else if(money == Menu.STARLATTE) {
-			return "º° ´Ù¹æ ¶ó¶¼¸¦ ±¸ÀÔÇß½À´Ï´Ù";
+			return "ë³„ ë‹¤ë°© ë¼ë–¼ë¥¼ êµ¬ì…í–ˆìŠµë‹ˆë‹¤";
 		}
 		else {
 			return null;

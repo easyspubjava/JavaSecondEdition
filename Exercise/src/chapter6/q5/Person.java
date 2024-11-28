@@ -4,25 +4,25 @@ public class Person {
 
 	String name;
 	int money;
-	
+
 	Person(String name, int money ){
 		this.name = name;
 		this.money = money;
 	}
-	
+
 	public void buyStarCoffee(StarCoffee sCoffee, int money) {
-		String message = sCoffee.brewing(4000);
+		String message = sCoffee.brewing(money);
 		if(message != null) {
 			this.money -= money;
-			System.out.println(name + " ´ÔÀÌ" + money +"À¸·Î "  + message);
+			System.out.println(name + "ë‹˜ì˜ ë‚¨ì€ ëˆì€ " + this.money +"ì› ì…ë‹ˆë‹¤ "  + message);
 		}
 	}
-	
+
 	public void buyBeanCoffee(BeanCoffee bCoffee, int money) {
-		String message = bCoffee.brewing(4500);
+		String message = bCoffee.brewing(money);
 		if(message != null) {
 			this.money -= money;
-			System.out.println(name + " ´ÔÀÌ" + money +"À¸·Î"  + message);
+			System.out.println(name + "ë‹˜ì˜ ë‚¨ì€ ëˆì€ " + this.money +"ì› ì…ë‹ˆë‹¤."  + message);
 		}
 	}
 }

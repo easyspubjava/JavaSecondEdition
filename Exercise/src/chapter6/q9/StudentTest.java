@@ -1,4 +1,4 @@
-package chapter6.q10;
+package chapter6.q9;
 
 public class StudentTest {
 

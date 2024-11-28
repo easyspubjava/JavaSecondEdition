@@ -1,4 +1,4 @@
-package chapter6.q9;
+package chapter6.q8;
 
 public class Taxi {
 	   String companyName;             // 회사 이름
