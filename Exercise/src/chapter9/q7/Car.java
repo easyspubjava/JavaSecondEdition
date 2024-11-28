@@ -1,4 +1,4 @@
-package chapter9.bus;
+package chapter9.q7;
 
 public abstract class Car {
 

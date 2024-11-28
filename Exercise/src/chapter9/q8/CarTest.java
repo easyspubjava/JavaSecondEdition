@@ -1,4 +1,4 @@
-package chapter9.aicar;
+package chapter9.q8;
 
 public class CarTest {
 

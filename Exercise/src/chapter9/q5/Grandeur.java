@@ -1,4 +1,4 @@
-package chapter9.hyundai;
+package chapter9.q5;
 
 public class Grandeur extends Car{
 	
