@@ -5,7 +5,7 @@ import java.util.Comparator;
 public class Member2 implements Comparator<Member2>{
 
 	private int memberId;
-	private String memberName;   //ȸ�� �̸�
+	private String memberName;
 
 	public Member2(int memberId, String memberName){ //������
 		this.memberId = memberId;
@@ -27,7 +27,7 @@ public class Member2 implements Comparator<Member2>{
 	
 	@Override
 	public String toString(){   //toString �޼ҵ� �����ε�
-		return memberName + " ȸ������ ���̵�� " + memberId + "�Դϴ�";
+		return memberName + " 회원님의 아이디는 " + memberId + "입니다";
 	}
 
 	@Override
