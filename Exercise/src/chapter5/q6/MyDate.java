@@ -89,10 +89,10 @@ public class MyDate {
 	public String isValid() {
 		
 		if(isValid) {
-			return "��ȿ�� ��¥�Դϴ�.";
+			return "유효한 날짜입니다.";
 		}
 		else {
-			return "��ȿ���� ���� ��¥�Դϴ�.";
+			return "유효하지 않은 날짜입니다.";
 		}
 	}
 }
