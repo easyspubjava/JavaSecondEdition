@@ -14,13 +14,13 @@ public class PasswordTest {
 		public void setPassword(String password) throws PasswordException {
 			
 			if(password == null){
-				throw new PasswordException("��й�ȣ�� null �� �� �����ϴ�");
+				throw new PasswordException("비밀번호는 null일 수 없습니다. ");
 			}
 			else if( password.length() < 5){
-				throw new PasswordException("��й�ȣ�� 5�� �̻� �Դϴ�");
+				throw new PasswordException("비밀번호는 5자 이상입니다. ");
 			}
 			else if (password.matches("[a-zA-Z]+")){
-				throw new PasswordException("��й�ȣ�� ���ڸ� �����ؾ� �մϴ�.");
+				throw new PasswordException("비밀번호는 숫자나 특수문자를 포함해야 합니다.");
 			}
 			
 			this.password = password;
