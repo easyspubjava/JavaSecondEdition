@@ -7,7 +7,7 @@ public class Member2 implements Comparator<Member2>{
 	private int memberId;
 	private String memberName;
 
-	public Member2(int memberId, String memberName){ //������
+	public Member2(int memberId, String memberName){
 		this.memberId = memberId;
 		this.memberName = memberName;
 	}

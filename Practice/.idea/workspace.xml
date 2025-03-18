@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daa4df07-8e8f-4008-8ed1-ba737d61da55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../FinalProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FinalProject/FinalProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter10/src/interfaceex/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter10/src/interfaceex/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter12/src/collection/Member2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter12/src/collection/Member2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter13/src/innerclass/InnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter13/src/innerclass/InnerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter6/src/staticex/StudentTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter6/src/staticex/StudentTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter7/src/array/ArrayListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter7/src/array/ArrayListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter8/src/polymorphism/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter8/src/polymorphism/CustomerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter11/Exercise8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter12/Exercise8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter13/Exercise9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/Cheese.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/CheeseCrustPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/Decorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/Exercise7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/OriginalPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/Peperoni.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter15/Potato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter16/Exercise5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter3/Exercise14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Exercise6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter4/Exercise7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/Exercise8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter6/Exercise9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter7/Exercise6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter8/Exercise6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter9/Exercise7.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2g4kUqP6ASgqTxB7sC1Py8GtVxQ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.chapter3.Exercise6.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/parkeunjong/Desktop/second_edition/JavaSecondEdition/Practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.chapter3.Exercise6">
+    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.Exercise7" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.Exercise9" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter3.Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.Exercise6" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter4.Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter4.Exercise6" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter6.Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.Exercise8" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.chapter3.Exercise6" />
+        <item itemvalue="Application.Exercise7" />
+        <item itemvalue="Application.chapter4.Exercise6" />
+        <item itemvalue="Application.Exercise9" />
+        <item itemvalue="Application.chapter6.Exercise8" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daa4df07-8e8f-4008-8ed1-ba737d61da55" name="Changes" comment="" />
+      <created>1714964256423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714964256423</updated>
+      <workItem from="1714964257685" duration="4997000" />
+      <workItem from="1715054215242" duration="7502000" />
+      <workItem from="1728110734634" duration="38000" />
+      <workItem from="1732763498466" duration="6188000" />
+      <workItem from="1742269392812" duration="359000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -13,7 +13,6 @@ public class CustomerTest {
 		customerKim.bonusPoint = 1000;
 		System.out.println(customerKim.showCustomerInfo());
 		
-		
 		System.out.println("====== 할인율과 보너스 포인트 계산 =======");
 		
 		int price = 10000;
